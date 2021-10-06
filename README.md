@@ -1,1 +1,1 @@
-# frontend-heathy-eating
+# Heathy Eating
